@@ -61,7 +61,7 @@ This project demonstrates the integration of Core Java, Data Structures, and MyS
 🚀 **Installation & Setup**
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Honey1601/E-Commerce
+git clone https://github.com/yashm-programmer/E-Commerce
 cd E-Commerce
 ```
 2. **Database Setup**
